@@ -1,2 +1,2 @@
-# 3D-Models-and-Prints
-Various 3D models along with their prints that I made with Autodesk Inventor for funsies! :)
+# 3D-Model-Orchid-Coasters
+Various custom plant coasters/trays that I made especially made for my orchids, so that the water doesnt spill from its drainage hole while fitting the space limitations of my window sill.
