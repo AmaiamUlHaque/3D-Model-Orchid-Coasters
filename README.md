@@ -1,6 +1,16 @@
 # 3D-Model-Orchid-Coasters
 Various custom plant coasters/trays that I made especially made for my orchids, so that the water doesnt spill from its drainage hole while fitting the space limitations of my window sill.
 
+## Version 5
+
+| View | Image |
+| ----- | ----- |
+| Isometric | <img width="1651" height="777" alt="image" src="https://github.com/user-attachments/assets/d80fefde-ef0f-4073-aea2-f1627c8c7609" />  |
+| Top       | <img width="1651" height="775" alt="image" src="https://github.com/user-attachments/assets/bc2f45f5-9ea8-42cd-9e9f-797ce3fd8419" /> |
+| Front     | <img width="1656" height="810" alt="image" src="https://github.com/user-attachments/assets/bb4ff0c0-fa6f-4998-8191-312cb472ffee" /> |
+| Right     | <img width="1654" height="809" alt="image" src="https://github.com/user-attachments/assets/f69efa1b-e084-4af7-9d51-f531b1bf1b5d" /> |
+
+
 ## Version 4
 
 | View | Image |
